@@ -1,4 +1,4 @@
-readme_content = """
+
 # Movie Recommendation System
 
 ## Overview
